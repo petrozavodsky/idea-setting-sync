@@ -1,0 +1,13 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="FindNext" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="SelectNextOccurrence" />
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>
