@@ -4,7 +4,11 @@
     <keyboard-shortcut first-keystroke="shift meta f" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
-  <action id="GotoLine" />
+  <action id="FindNext" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="meta l" />
@@ -19,6 +23,7 @@
   <action id="Replace" />
   <action id="Rerun" />
   <action id="Run" />
+  <action id="SelectNextOccurrence" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="hg4idea.QRefresh" />
