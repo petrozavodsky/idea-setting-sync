@@ -1,5 +1,9 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="Console.TableResult.Reload" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="GotoLine" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
