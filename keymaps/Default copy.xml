@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="meta g" />
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="meta l" />
